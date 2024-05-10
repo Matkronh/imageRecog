@@ -1,0 +1,64 @@
+.uploadBlockcss{
+    background-color: rgb(224, 223, 223);
+    width: 95%;
+    /* height: 26rem; */
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    justify-content: center;
+}
+
+.uploadHeader{
+    display: flex;
+    padding: 1rem;
+}
+
+.uploadBtn{
+    margin-left: 0.4rem;
+}
+
+.previewblock{
+    background-color: lightblue;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    /* justify-content: center; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.transferdiv{
+    margin-top: 1rem;
+}
+
+.transferbtn{
+    width: 10rem;
+    height: 3rem;
+}
+
+.resultBlockcss{
+    background-color: rgb(175, 174, 174);
+    width: 60rem;
+    height: 26rem;
+    margin-bottom: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.spreadSheetDiv{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+
+.frameDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+}
